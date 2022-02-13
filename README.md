@@ -3,6 +3,8 @@ A very simple python script to encode and decode PowerShell one-liners.
 
 I used [Raikia's PowerShell encoder](https://raikia.com/tool-powershell-encoder/]) ALOT, but one day it went down, and I was sad! So I created this simple script that I could run on Linux.
 
+For anybody that doesn't know PowerShell doesn't just use Base64, it uses UTF16-LE Base64.
+
 ## Usage
 
 Show the help:
